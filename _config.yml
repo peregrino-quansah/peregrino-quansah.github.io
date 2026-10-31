@@ -1,0 +1,17 @@
+title: Peregrino Quansah
+description: Software engineer, cloud. Moving into applied AI. Notes on building and measuring LLM systems.
+url: "https://peregrino-quansah.github.io"
+baseurl: ""
+author: Peregrino Quansah
+github_username: peregrino-quansah
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+permalink: /:year/:month/:title/
+show_excerpts: true
+minima:
+  social_links:
+    github: peregrino-quansah
+header_pages:
+  - about.md
